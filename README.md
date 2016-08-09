@@ -1,1 +1,1 @@
-Projeto de catalogo de serviços oline, por Geolocalização.
+Projeto de catalogo de serviços online, por Geolocalização.
